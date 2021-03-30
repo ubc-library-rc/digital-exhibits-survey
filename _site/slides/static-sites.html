@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <!-- Title of page (as it will appear in search results) -->
+  <title>Building Exihibits with Static Sites</title>
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="https://ubc-library-rc.github.io/reveal-ubc/css/reset.css">
+	<link rel="stylesheet" href="https://ubc-library-rc.github.io/reveal-ubc/css/reveal.css">
+	<link rel="stylesheet" href="https://ubc-library-rc.github.io/reveal-ubc/css/ubc.css" id="theme">
+
+	<!-- Theme used for syntax highlighting of code -->
+	<link rel="stylesheet" href="https://ubc-library-rc.github.io/reveal-ubc/lib/css/monokai.css">
+
+	<!-- Printing and PDF exports -->
+	<script>
+		var link = document.createElement( 'link' );
+		link.rel = 'stylesheet';
+		link.type = 'text/css';
+		link.href = window.location.search.match( /print-pdf/gi ) ? 'https://ubc-library-rc.github.io/reveal-ubc/css/print/pdf.css' : 'https://ubc-library-rc.github.io/reveal-ubc/css/print/paper.css';
+		document.getElementsByTagName( 'head' )[0].appendChild( link );
+	</script>
+
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+
+<body>
+
+<div class="reveal">
+
+	<div class="slides">
+
+    <section data-background="#002145">
+      <h3>UBC Library <br> Research Commons</h3>
+      <blockquote>A multidisciplinary hub supporting research endeavours, partnerships, and education.</blockquote>
+    </section>
+
+<p>Outline</p>
+<ul>
+  <li>Exhibit tools</li>
+  <li>Free vs. not</li>
+  <li>Content management systems</li>
+  <li>Static site tools</li>
+  <li>Hosting options and support</li>
+</ul>
+</section>
+  <section>
+    <p>"Free as in kitten not free as in beer.""</p>
+  </section>
+
+  <section>
+    <p>Technical debt is real annd difficult to solve for.</p>
+        Housework analogy of DS? Find source?
+  </section>
+  <section>
+    <p>Hosted tools can have the benefit of support</p>
+  </section>
+  </section>
+    <section>
+<h2>Minimal Computing</h2>
+<p>what and why</p>
+    </section>
+   <section>
+<p><strong>Who</strong> will be able to see your work in 10 years?</p>
+    </section>
+
+    <section>
+<p>Will they be able to see it or <strong>use it</strong>?</p>
+    </section>
+
+    <section>
+<p>Minimal doesn't necessarily mean "simple"</p>
+    </section>
+
+    <section>
+<p><strong>Minimal could mean:</strong></p>
+<ul>
+  <li>Constrained</li>
+  <li>Underfunded</li>
+  <li>Fewer total number of technologies</li>
+  <li>Easier to maintain long-term</li>
+</ul>
+    </section>
+
+    <section>
+    <p>Fewer <strong>"dependencies"</strong></p>
+    </section>
+
+    <section>
+    <p>Formats that are <strong>"future proofed"</strong></p>
+    </section>
+
+    <section>
+    <p>Open soruce tools are <br> free as in kitten not free as in beer.</p>
+    </section>
+
+    <section>
+    <p>Higher likelihood that it will keep working into the future because of simpler component parts with fewer dependencies</p>
+    </section>
+
+    <section>
+      <h2>Wax</h2>
+      <p>A minimal computing publishing tool</p>
+    </section>
+
+    <section>
+      <p>What is Wax?</p>
+      <ul>
+        <li>Leveraged <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and Github Pages</li>
+        <li>Uses <a href="https://iiif.io/" target="_blank">IIIF (International Image Interoperability Framework)(<a href="https://docs.google.com/document/d/1h9SPg9nlLA3TAdzkYxkyaFFNNf8m4PsbaIExcYwVLyo/edit#heading=h.q7mmne7d3bk2" target="_blank">why IIIF?</a>)</li>
+        <li>Uses <a href="https://openseadragon.github.io/" target="_blank">OpenSeaDragon</a> viewer but can use any other</li>
+        <li>Creates a relatively small static site (vs. dynamic)</li>
+      </ul>
+    <section>
+
+      <section>
+      <h2>CollectionBuilder</h2>
+      <p>Similar to Wax with different layouts</p>
+      </section>
+
+      <section>
+      <p>What is CollectionBuilder?</p>
+      <ul>
+      	<li>Grant funded project to create minimal computing exhibit off spreadsheet</li>
+      	<li>Three versions, one is Github Pages focused others are more for repositories</li>
+      	<li>Similar idea to Wax with a few added features for the simplest form</li>
+        <li>Lots of tutorial content which makes it beginner friendly</li>
+      </ul>
+      </section>
+
+      <section>
+        <p>Hosting options</p>
+        <ul>
+          <li>At UBC</li>
+          <ul>
+            <li>Digital Ocean + servers in Canada</li>
+            <li>Paid technical support</li>
+            <li>Aimed at academic use cases</li>
+          </ul>
+        </ul>
+      </section>
+
+      <section>
+        <p>Hosting options</p>
+        <ul>
+          <li>Reclaim Hosting</li>
+          <ul>
+            <li>Digital Ocean + servers in Canada</li>
+            <li>Paid technical support</li>
+            <li>Aimed at academic use cases</li>
+          </ul>
+        </ul>
+      </section>
+</div>
+
+<script src="https://ubc-library-rc.github.io/reveal-ubc/js/reveal.js"></script>
+
+	<script>
+
+		// More info https://github.com/hakimel/reveal.js#configuration
+		Reveal.initialize({
+			controls: true,
+			progress: true,
+			center: true,
+			hash: true,
+
+			transition: 'none', // none/fade/slide/convex/concave/zoom
+
+		// More info https://github.com/hakimel/reveal.js#dependencies
+			dependencies: [
+				{ src: 'https://ubc-library-rc.github.io/reveal-ubc/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+				{ src: 'https://ubc-library-rc.github.io/reveal-ubc/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+				{ src: 'https://ubc-library-rc.github.io/reveal-ubc/plugin/highlight/highlight.js' },
+				{ src: 'https://ubc-library-rc.github.io/reveal-ubc/plugin/search/search.js', async: true },
+				{ src: 'https://ubc-library-rc.github.io/reveal-ubc/plugin/zoom-js/zoom.js', async: true },
+				{ src: 'https://ubc-library-rc.github.io/reveal-ubc/plugin/notes/notes.js', async: true }
+				]
+			});
+
+	</script>
+
+	</body>
+</html>

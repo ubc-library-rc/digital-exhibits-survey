@@ -1,0 +1,18 @@
+I"�<h2 id="what-is-omeka">What is Omeka?</h2>
+
+<p><a href="https://omeka.org/about/project/">“Omeka”</a> is a Swahili word meaning “to display or lay out wares”. Developed by the Roy Rosenzweig Center for History and New Media at George Mason University, Omeka is a free, open source publishing tool, or content management system, that allows you to curate digital collections and make a searchable database. There are currently three instances of Omeka including Omeka.org, Omeka.net, and Omeka S.</p>
+
+<h3 id="omekaorg-vs-omekanet-vs-omeka-s">Omeka.org vs. Omeka.net vs. Omeka S</h3>
+
+<p>Omega.org needs to be hosted on a web hosting server. It is free and highly customizable but requires more expertise to build.</p>
+
+<p>Omeka S was created for institutions to manage multiple sites.</p>
+
+<p>Omeka.net is hosted on Omeka servers. It is easier to use but it is less customizable. Omeka.net offers a tiered, paid subscription as well as a free trial version. The trial version allows you to build 1 site, with 500 MB of storage space. It has very limited plugins or aesthetic features but it’s a great starting point for beginners and learning how to use Omeka.</p>
+
+<h3 id="upgrading-your-omekanet-account">Upgrading your Omeka.net account</h3>
+
+<p>Omeka.net has a tiered, paid subscription service. You can upgrade your plan at any time.</p>
+
+<p><img src="images/Upgrade-plan.png" alt="Upgrade plan" width="800" height="auto" /></p>
+:ET

@@ -1,0 +1,272 @@
+{"0": {
+    "doc": "Acknowledgements",
+    "title": "Acknowledgements",
+    "content": "Site template adapted from the just-the-docs Jekyll template created by Patrick Marsceil and available under the MIT License. ",
+    "url": "http://localhost:4000/acknowledgements.html",
+    "relUrl": "/acknowledgements.html"
+  },"1": {
+    "doc": "Digital storytelling",
+    "title": "Scalar",
+    "content": " ",
+    "url": "http://localhost:4000/content/digital-storytelling-tools.html#scalar",
+    "relUrl": "/content/digital-storytelling-tools.html#scalar"
+  },"2": {
+    "doc": "Digital storytelling",
+    "title": "KnightLabs",
+    "content": " ",
+    "url": "http://localhost:4000/content/digital-storytelling-tools.html#knightlabs",
+    "relUrl": "/content/digital-storytelling-tools.html#knightlabs"
+  },"3": {
+    "doc": "Digital storytelling",
+    "title": "Storymaps",
+    "content": " ",
+    "url": "http://localhost:4000/content/digital-storytelling-tools.html#storymaps",
+    "relUrl": "/content/digital-storytelling-tools.html#storymaps"
+  },"4": {
+    "doc": "Digital storytelling",
+    "title": "Timelinejs",
+    "content": " ",
+    "url": "http://localhost:4000/content/digital-storytelling-tools.html#timelinejs",
+    "relUrl": "/content/digital-storytelling-tools.html#timelinejs"
+  },"5": {
+    "doc": "Digital storytelling",
+    "title": "Embeddable tools",
+    "content": "Similar to Knightlabs there are many tools that allow embedding. Considerations on whether to use a tool? Dependencies? . Eg. Voyant . Find more tools… Tapor . ",
+    "url": "http://localhost:4000/content/digital-storytelling-tools.html#embeddable-tools",
+    "relUrl": "/content/digital-storytelling-tools.html#embeddable-tools"
+  },"6": {
+    "doc": "Digital storytelling",
+    "title": "Noteable plugins",
+    "content": "Neatline plugin for Omeka, popular . ",
+    "url": "http://localhost:4000/content/digital-storytelling-tools.html#noteable-plugins",
+    "relUrl": "/content/digital-storytelling-tools.html#noteable-plugins"
+  },"7": {
+    "doc": "Digital storytelling",
+    "title": "Digital storytelling",
+    "content": " ",
+    "url": "http://localhost:4000/content/digital-storytelling-tools.html",
+    "relUrl": "/content/digital-storytelling-tools.html"
+  },"8": {
+    "doc": "Outline",
+    "title": "Creating Digital Exhibits: A Survey of Tools",
+    "content": "This workshop will cover an assortment of digital exhibit and storytelling tools such as Omeka, Scalar, static site generators (CollectionBuilder and Wax), and narrative tools such as Timeline.js and Storymaps from Knight Lab. This session is part of the Digital Toolkit series co-presented by the UBC Library Research Commons at UBC-V and UBC-O Library. ",
+    "url": "http://localhost:4000/#creating-digital-exhibits-a-survey-of-tools",
+    "relUrl": "/#creating-digital-exhibits-a-survey-of-tools"
+  },"9": {
+    "doc": "Outline",
+    "title": "Learning objectives",
+    "content": "At the end of this session, you will be able to: . | List common tools and what they might be useful for | Identify hosting resources at UBC and beyond | . ",
+    "url": "http://localhost:4000/#learning-objectives",
+    "relUrl": "/#learning-objectives"
+  },"10": {
+    "doc": "Outline",
+    "title": "Schedule",
+    "content": "| 10:00 - 10:05 | Welcome and using Zoom | . | 10:05 - 12:00 | Survey of tools | . | 12:00 - 1:00 | Break for lunch | . | 1:00 - 3:00 | Hands-on activities (optional) | . ",
+    "url": "http://localhost:4000/#schedule",
+    "relUrl": "/#schedule"
+  },"11": {
+    "doc": "Outline",
+    "title": "Resources",
+    "content": "* . ",
+    "url": "http://localhost:4000/#resources",
+    "relUrl": "/#resources"
+  },"12": {
+    "doc": "Outline",
+    "title": "Outline",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"13": {
+    "doc": "Introduction",
+    "title": "Digital Exhibits",
+    "content": "For researchers, digital exhibits can provide an opportunity to communicate research to a broader audience. Digital exhibits can be used to highlight research on many different topics. The Seahorse Project, California Women for Agriculture, The Latina History Project, are all examples of websites built using Omeka.net. ",
+    "url": "http://localhost:4000/content/introduction.html#digital-exhibits",
+    "relUrl": "/content/introduction.html#digital-exhibits"
+  },"14": {
+    "doc": "Introduction",
+    "title": "Digital Exhibits and Pedagogy",
+    "content": "Digital exhibit assignments can provide students–both undergraduate and graduate– with opportunities to learn new skills and engage in public research. Skills such as primary source research, digital literacy skills (how to choose a source and evaluate it), knowledge of copyright, open access, and Creative Commons licenses, as well as working with content management systems and creating metadata. There is a lot of flexibility as to how to incorporate digital exhibits as an assignment. For example, you can either ask students to create their own exhibit or ask students to work collaboratively to create one classroom exhibit. ",
+    "url": "http://localhost:4000/content/introduction.html#digital-exhibits-and-pedagogy",
+    "relUrl": "/content/introduction.html#digital-exhibits-and-pedagogy"
+  },"15": {
+    "doc": "Introduction",
+    "title": "Introduction",
+    "content": " ",
+    "url": "http://localhost:4000/content/introduction.html",
+    "relUrl": "/content/introduction.html"
+  },"16": {
+    "doc": "Land acknowledgement",
+    "title": "Land acknowledgement",
+    "content": "Before beginning the workshop, we’d like to acknowledge the indigenous lands where we are located. UBC Vancouver is located on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam), səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Stz’uminus, S’ólh Téméxw (Stó:lō), Skwxwú7mesh-ulh Temíx̱w (Squamish), and Coast Salish peoples. The Okanagan Campus and the City of Kelowna are located on the traditional, ancestral, and unceded territory of the Syilx Okanagan Nation. Please take a moment to explore native-land.ca so that you can visualize the indigenous territories, languages, and treaties in your area. ",
+    "url": "http://localhost:4000/land-acknowledgement.html",
+    "relUrl": "/land-acknowledgement.html"
+  },"17": {
+    "doc": "Getting started",
+    "title": "Getting Started",
+    "content": "Once you have logged in, you can add a new site. Fill in the information about your site’s URL, the title you want to use, and give your website a description. From here, you can manage your site, view your site, delete your site, and edit any of your personal information. It will also let you know how much storage you have used. After you have created your Omeka site, select Manage Site and you will be taken to the Dashboard where you can edit your Omeka site. ",
+    "url": "http://localhost:4000/content/omeka-getting-started.html#getting-started",
+    "relUrl": "/content/omeka-getting-started.html#getting-started"
+  },"18": {
+    "doc": "Getting started",
+    "title": "Themes",
+    "content": "Omeka allows you to change the look of your site by changing the theme. To do this, select Appearance (at the top right of your dashboard). Switch themes by selecting one of the options on the page. Each theme allows you to make some modifications such as adding a logo, header and footer information, and choosing how you want items to be displayed on the homepage. Omeka.net trial version only has two themes: Berlin and Seasons. In Appearances, you can also rearrange your menu and add additional pages using an external url. For example, I have created an About Me page that links to my contact information on the UBC website. ",
+    "url": "http://localhost:4000/content/omeka-getting-started.html#themes",
+    "relUrl": "/content/omeka-getting-started.html#themes"
+  },"19": {
+    "doc": "Getting started",
+    "title": "Plugins",
+    "content": "Your Omeka.net trial site comes with some free plugins, which offer some extra functionality. In order to use them, you need to enable them. Select the Plugins menu item at the top right of the page. If you want to create an exhibit, I suggest installing the Exhibit Builder and Simple Pages. ",
+    "url": "http://localhost:4000/content/omeka-getting-started.html#plugins",
+    "relUrl": "/content/omeka-getting-started.html#plugins"
+  },"20": {
+    "doc": "Getting started",
+    "title": "Adding an item with metadata",
+    "content": "To add an item, select Items on the left-hand menu and then Add an item. Be sure to click the Public checkbox if you want to make your item public. Upload a file or files (e.g. PDF, JPEG, MP3). If you have already created a Collection, you can select a Collection that you would like the item to be a part of. At this time, you can also input the metadata and tags. Omeka.net provides a link to show what information should go in each field, but you can also modify that a bit as long as you’re consistent. Once you’ve finished adding Dublin Core metadata, you can attach a file to your item record by selecting Files. You can add multiple files, but the trial version only allows for 500 MB of storage space. ",
+    "url": "http://localhost:4000/content/omeka-getting-started.html#adding-an-item-with-metadata",
+    "relUrl": "/content/omeka-getting-started.html#adding-an-item-with-metadata"
+  },"21": {
+    "doc": "Getting started",
+    "title": "Add a collection",
+    "content": "If you would like to organize or group your items, you can create collections. Select Collections and select Add a Collection. You can also create metadata for each collection. If you would like to add items to a collection, select the Items tab. From your Browse Items list, click the boxes of the items that belong in your new collection. Then select the Edit button. ",
+    "url": "http://localhost:4000/content/omeka-getting-started.html#add-a-collection",
+    "relUrl": "/content/omeka-getting-started.html#add-a-collection"
+  },"22": {
+    "doc": "Getting started",
+    "title": "Adding an exhibit",
+    "content": "While a collection really helps to group or organize items, an exhibit allows you to contextualize your items and guide your audience by using text and different layout options. To create an exhibit, select Exhibits and Add an Exhibit. Enter in the metadata for your exhibit. A slug is a machine-readable name for your exhibit and will become part of your URL. ",
+    "url": "http://localhost:4000/content/omeka-getting-started.html#adding-an-exhibit",
+    "relUrl": "/content/omeka-getting-started.html#adding-an-exhibit"
+  },"23": {
+    "doc": "Getting started",
+    "title": "Add a page",
+    "content": "An exhibit consists of pages. The pages are where you can feature your items. An exhibit can have multiple pages and the pages can be rearranged. To create a page, select Add Page. Fill in the information about your page and select a layout, and then Add New Content Block. Content Blocks allow you to add an item and text to your page. You can add multiple content blocks. ",
+    "url": "http://localhost:4000/content/omeka-getting-started.html#add-a-page",
+    "relUrl": "/content/omeka-getting-started.html#add-a-page"
+  },"24": {
+    "doc": "Getting started",
+    "title": "Getting started",
+    "content": " ",
+    "url": "http://localhost:4000/content/omeka-getting-started.html",
+    "relUrl": "/content/omeka-getting-started.html"
+  },"25": {
+    "doc": "Omeka",
+    "title": "What is Omeka?",
+    "content": "“Omeka” is a Swahili word meaning “to display or lay out wares”. Developed by the Roy Rosenzweig Center for History and New Media at George Mason University, Omeka is a free, open source publishing tool, or content management system, that allows you to curate digital collections and make a searchable database. There are currently three instances of Omeka including Omeka.org, Omeka.net, and Omeka S. Omeka.org vs. Omeka.net vs. Omeka S . Omega.org needs to be hosted on a web hosting server. It is free and highly customizable but requires more expertise to build. Omeka S was created for institutions to manage multiple sites. Omeka.net is hosted on Omeka servers. It is easier to use but it is less customizable. Omeka.net offers a tiered, paid subscription as well as a free trial version. The trial version allows you to build 1 site, with 500 MB of storage space. It has very limited plugins or aesthetic features but it’s a great starting point for beginners and learning how to use Omeka. Upgrading your Omeka.net account . Omeka.net has a tiered, paid subscription service. You can upgrade your plan at any time. ",
+    "url": "http://localhost:4000/content/omeka-introduction.html#what-is-omeka",
+    "relUrl": "/content/omeka-introduction.html#what-is-omeka"
+  },"26": {
+    "doc": "Omeka",
+    "title": "Omeka",
+    "content": " ",
+    "url": "http://localhost:4000/content/omeka-introduction.html",
+    "relUrl": "/content/omeka-introduction.html"
+  },"27": {
+    "doc": "Setting up a trial account",
+    "title": "How to set up a trial account (Demonstration)",
+    "content": "1 Go to omeka.net . 2 Select “Learn which plan is right for you” . 3 Select “Start your free Omeka trial” and create an account. Check your email for the link to activate your account. ",
+    "url": "http://localhost:4000/content/omeka-setup.html#how-to-set-up-a-trial-account-demonstration",
+    "relUrl": "/content/omeka-setup.html#how-to-set-up-a-trial-account-demonstration"
+  },"28": {
+    "doc": "Setting up a trial account",
+    "title": "Setting up a trial account",
+    "content": " ",
+    "url": "http://localhost:4000/content/omeka-setup.html",
+    "relUrl": "/content/omeka-setup.html"
+  },"29": {
+    "doc": "Building exhibits with Omeka.net",
+    "title": "Building Digital Exhibits with Omeka.net",
+    "content": "Omeka sites are made up of items, collections, and exhibits. An item is the basic unit of an Omeka site. Items are records which can be attached to a file (jpeg, mp4, pdf, etc). Omeka also allows you to add metadata to each item. Metadata is information about an item such as title, author, publisher, date, etc. Omeka.net uses the Dublin Core metadata schema which is easy to modify. Metadata makes the items on your website searachable. Omeka provides the fields for you to enter the information. Feel free to modify but try and stay consistent. Collections are useful for grouping or organizing items. You can link between items in different collections using tags. Tags allow you to link items together with terms of your choosing. When any two items have the same tag, the tag automatically turns into a link. Omeka sites allow you to browse items by tag. Items do not have to be in collections, but once an item is in a collection, it can’t be in any other collection. An exhibit is the process of carefully choosing items and arranging them to create a narrative or story using different layouts and additional text. Even with Omeka.net, you have the ability to modify how you arrange your exhibit. ",
+    "url": "http://localhost:4000/content/omeka-types.html#building-digital-exhibits-with-omekanet",
+    "relUrl": "/content/omeka-types.html#building-digital-exhibits-with-omekanet"
+  },"30": {
+    "doc": "Building exhibits with Omeka.net",
+    "title": "Privacy",
+    "content": "Please note that Omeka stores its data in Virginia, United States. If you are asking students to create exhibits using Omeka, students should be made aware of this and given the option to make their work anonymous or to sign up without using personally identifying information. For more information on UBC privacy facts, read the Privacy Fact Sheet on Collecting Personal Information. Remember, students at UBC own their intellectual property so they have the right to refuse openly licensing their work. It’s necessary to communicate the risks and value of working in the open and/or public with your students. Librarians can help you with that! . ",
+    "url": "http://localhost:4000/content/omeka-types.html#privacy",
+    "relUrl": "/content/omeka-types.html#privacy"
+  },"31": {
+    "doc": "Building exhibits with Omeka.net",
+    "title": "Accessibility",
+    "content": "Accessibility is important. There are steps you can take to make sure you are making the exhibit as accessible as possible. For example, if you are uploading multimedia content such as videos or sound clips, make sure you have included a transcription. When uploading images to websites, you should include alt-text. Alt-text provides a description of an image that can be read by a screen reader. Unfortunately, Omeka.net does not provide a function to add alt-text to items that have image files. If you are highlighting the image in an exhibit, you may want to add a caption which describes the image. Likewise, if you are uploading a sound file or video file, it should be accompanied by a transcript. ",
+    "url": "http://localhost:4000/content/omeka-types.html#accessibility",
+    "relUrl": "/content/omeka-types.html#accessibility"
+  },"32": {
+    "doc": "Building exhibits with Omeka.net",
+    "title": "Building exhibits with Omeka.net",
+    "content": " ",
+    "url": "http://localhost:4000/content/omeka-types.html",
+    "relUrl": "/content/omeka-types.html"
+  },"33": {
+    "doc": "Participating online",
+    "title": "Participating online",
+    "content": "Active participation enlivens the session with other voices and perspectives. We encourage you to engage with instructors and with each other. Microphones are muted by default to improve audio quality and recording is disabled to preserve participant privacy. The Zoom toolbar provides several ways to be part of the conversation: . ",
+    "url": "http://localhost:4000/online.html",
+    "relUrl": "/online.html"
+  },"34": {
+    "doc": "Participating online",
+    "title": "Reactions menu",
+    "content": "Open the Reactions menu and click an icon to communicate with the instructors. Use this to answer yes/no questions or to raise your hand when instructors invite you to ask a question, comment, or share your screen. ",
+    "url": "http://localhost:4000/online.html#reactions-menu",
+    "relUrl": "/online.html#reactions-menu"
+  },"35": {
+    "doc": "Participating online",
+    "title": "Chat window",
+    "content": "Use the Chat window to comment or ask a question at any time. Instructors will do their best to respond, sometimes waiting for a break in the lesson to do so. The Chat window is a good place to report problems with your audio connection. Instructors may also use it to share links to material mentioned in the session. ",
+    "url": "http://localhost:4000/online.html#chat-window",
+    "relUrl": "/online.html#chat-window"
+  },"36": {
+    "doc": "Participating online",
+    "title": "Share your screen",
+    "content": "In some cases instructors may invite you to share your screen. Raise your hand to indicate that you’re ready to share. When called upon click Share screen, select a window to display, and click Share. ",
+    "url": "http://localhost:4000/online.html#share-your-screen",
+    "relUrl": "/online.html#share-your-screen"
+  },"37": {
+    "doc": "Participating online",
+    "title": "Contribute to the Whiteboard",
+    "content": "The Whiteboard is a collaborative space that everyone can annotate with drawings and text. When the whiteboard is shared click View options and select Annotate. This opens the annotation toolbar. Drawings and text you add to the screen will be visible to everyone in the session or breakout room. ",
+    "url": "http://localhost:4000/online.html#contribute-to-the-whiteboard",
+    "relUrl": "/online.html#contribute-to-the-whiteboard"
+  },"38": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": " ",
+    "url": "http://localhost:4000/resources.html",
+    "relUrl": "/resources.html"
+  },"39": {
+    "doc": "Wax and CollectionBuilder",
+    "title": "Static sites",
+    "content": "Static websites differ from dynamic websites in that they are not in consistent communication with a server. In other words, all of the data loads when you access the site and as you interact with it it’s pre-loaded in your browser. As a result static sites are very self-contained and computationally reproducible which gives them longevity. This is particularly important in an academic context. ",
+    "url": "http://localhost:4000/content/static-site-tools.html#static-sites",
+    "relUrl": "/content/static-site-tools.html#static-sites"
+  },"40": {
+    "doc": "Wax and CollectionBuilder",
+    "title": "Minimal Computing",
+    "content": "Using a static site approach for digital exhibits falls into a way of thinking about digital scholarship that prioritises longevity and different types of “minimalism”. That doesn’t necessarily mean that the project is simple just that it has characteristics that will make it durable. The goal is to answer two questions: . | Who will be able to see your work in 10 years? | Will they be able to see it or use it? | . Minimal might mean: . | Constrained | Underfunded | Fewer total number of technologies | Easier to maintain long-term | Fewer “dependencies” | Formats that are “future proofed” | . Read more about Minimal Computing here: https://go-dh.github.io/mincomp/about/ . ",
+    "url": "http://localhost:4000/content/static-site-tools.html#minimal-computing",
+    "relUrl": "/content/static-site-tools.html#minimal-computing"
+  },"41": {
+    "doc": "Wax and CollectionBuilder",
+    "title": "Avoiding technical debt",
+    "content": "Technical debt refers to the ongoing operational and maintenance needs of a digital project that go beyond the core project work. It accumulates over time and is difficult to offset. The best solution to technical debt is to have a coherent “sunsetting” plan which establishes how your project will be preserved, taken offline at a specific date, and in what form it will remain accessible to future generations. Minimal computing can help mitigate some of the complexity that can arise from technical debt by making use of open file formats, few dependencies, and keeping everything that relates to the project together in one place. This means that there is a higher likelihood your project will remain accessible into the future even if it is no longer active and be easier to replicate or build onto. Free as in kitten not free as in beer. ",
+    "url": "http://localhost:4000/content/static-site-tools.html#avoiding-technical-debt",
+    "relUrl": "/content/static-site-tools.html#avoiding-technical-debt"
+  },"42": {
+    "doc": "Wax and CollectionBuilder",
+    "title": "Wax",
+    "content": "Wax is a minimal computing publishing tool for the creation of academic digital exhibits using a IIIF viewer. | Leverages Jekyll and Github Pages | Uses IIIF (International Image Interoperability Framework)(why IIIF?) | Uses OpenSeaDragon viewer but can use any other | Creates a relatively small static site (vs. dynamic) | . ",
+    "url": "http://localhost:4000/content/static-site-tools.html#wax",
+    "relUrl": "/content/static-site-tools.html#wax"
+  },"43": {
+    "doc": "Wax and CollectionBuilder",
+    "title": "CollectionBuilder",
+    "content": "“CollectionBuilder is an open source tool for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.” . | Similar to Wax in it’s use of Jekyll, Ruby, and Github Pages, creating a small static site | Focus on metadata creation as a core element of scholarly output | Three versions, one for Github Pages based exhibits, one as a front layer for repositories, and one as a standalone tool | . ",
+    "url": "http://localhost:4000/content/static-site-tools.html#collectionbuilder",
+    "relUrl": "/content/static-site-tools.html#collectionbuilder"
+  },"44": {
+    "doc": "Wax and CollectionBuilder",
+    "title": "Wax and CollectionBuilder",
+    "content": " ",
+    "url": "http://localhost:4000/content/static-site-tools.html",
+    "relUrl": "/content/static-site-tools.html"
+  }
+}

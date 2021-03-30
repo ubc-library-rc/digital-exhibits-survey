@@ -1,0 +1,75 @@
+I"Q<h1 id="static-sites">Static sites</h1>
+
+<p>Minimal computing approach</p>
+<p>Outline</p>
+<ul>
+  <li>Minimal Computing: what and why</li>
+  <li>Tour of Wax</li>
+  <li>Getting your materials ready</li>
+  <li>Setting up your environment</li>
+  <li>Work-along time</li>
+</ul>
+<p>&lt;/section&gt;
+    &lt;section&gt;</p>
+<h2>Minimal Computing</h2>
+<p>what and why</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;/section&gt;
+</code></pre></div></div>
+<section>
+<p><strong>Who</strong> will be able to see your work in 10 years?</p>
+    </section>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;section&gt;
+</code></pre></div></div>
+<p>Will they be able to see it or <strong>use it</strong>?</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;/section&gt;
+
+&lt;section&gt;
+</code></pre></div></div>
+<p>Minimal doesn't necessarily mean "simple"</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;/section&gt;
+
+&lt;section&gt;
+</code></pre></div></div>
+<p><strong>Minimal could mean:</strong></p>
+<ul>
+  <li>Constrained</li>
+  <li>Underfunded</li>
+  <li>Fewer total number of technologies</li>
+  <li>Easier to maintain long-term</li>
+</ul>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;/section&gt;
+
+&lt;section&gt;
+&lt;p&gt;Fewer &lt;strong&gt;"dependencies"&lt;/strong&gt;&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;p&gt;Formats that are &lt;strong&gt;"future proofed"&lt;/strong&gt;&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;p&gt;Open soruce tools are &lt;br&gt; free as in kitten not free as in beer.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;p&gt;Higher likelihood that it will keep working into the future because of simpler component parts with fewer dependencies&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;Wax&lt;/h2&gt;
+  &lt;p&gt;A minimal computing publishing tool&lt;/p&gt;
+&lt;/section&gt;  
+</code></pre></div></div>
+
+<h1 id="wax">Wax</h1>
+<p>Wax is a minimal computing publishing tool for the creation of academic digital exhibits using a IIIF viewer.</p>
+<ul>
+  <li>Leveraged <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and Github Pages</li>
+  <li>Uses <a href="https://iiif.io/" target="_blank">IIIF (International Image Interoperability Framework)(<a href="https://docs.google.com/document/d/1h9SPg9nlLA3TAdzkYxkyaFFNNf8m4PsbaIExcYwVLyo/edit#heading=h.q7mmne7d3bk2" target="_blank">why IIIF?</a>)&lt;/li&gt;
+  <li>Uses <a href="https://openseadragon.github.io/" target="_blank">OpenSeaDragon</a> viewer but can use any other</li>
+  <li>Creates a relatively small static site (vs. dynamic)</li>
+&lt;/ul&gt;
+# CollectionBuilder
+</a></li></ul>
+:ET

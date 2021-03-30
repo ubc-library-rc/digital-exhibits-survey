@@ -1,0 +1,42 @@
+I"�<h1 id="static-sites">Static sites</h1>
+
+<p>Static websites differ from dynamic websites in that they are not in consistent communication with a server. In other words, all of the data loads when you access the site and as you interact with it it’s pre-loaded in your browser. As a result static sites are very self-contained and computationally reproducible which gives them longevity. This is particularly important in an academic context.</p>
+
+<h1 id="minimal-computing">Minimal Computing</h1>
+<p>Using a static site approach for digital exhibits falls into a way of thinking about digital scholarship that prioritises longevity and different types of “minimalism”. That doesn’t necessarily mean that the project is simple just that it has characteristics that will make it durable.</p>
+
+<p>The goal is to answer two questions:</p>
+<ul>
+  <li>Who will be able to see your work in 10 years?</li>
+  <li>Will they be able to see it or <strong>use it</strong>?</li>
+</ul>
+
+<p>Minimal might mean:</p>
+<ul>
+  <li>Constrained</li>
+  <li>Underfunded</li>
+  <li>Fewer total number of technologies</li>
+  <li>Easier to maintain long-term</li>
+  <li>Fewer <strong>“dependencies”</strong></li>
+  <li>Formats that are <strong>“future proofed”</strong></li>
+</ul>
+
+<p class="note">Read more about Minimal Computing here: https://go-dh.github.io/mincomp/about/</p>
+
+<h1 id="avoiding-technical-debt">Avoiding technical debt</h1>
+<p>Technical debt refers to the ongoing operational and maintenance needs of a digital project that go beyond the core project work. It accumulates over time and is difficult to offset. The best solution to technical debt is to have a coherent “sunsetting” plan which establishes how your project will be preserved, taken offline at a specific date, and in what form it will remain accessible to future generations. Minimal computing can help mitigate some of the complexity that can arise from technical debt by making use of open file formats, few dependencies, and keeping everything that relates to the project together in one place. This means that there is a higher likelihood your project will remain accessible into the future even if it is no longer active and be easier to replicate or build onto</p>
+
+<p>Free as in kitten not free as in beer.</p>
+
+<h1 id="wax">Wax</h1>
+<p>Wax is a minimal computing publishing tool for the creation of academic digital exhibits using a IIIF viewer.</p>
+<ul>
+  <li>Leveraged <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and Github Pages</li>
+  <li>Uses <a href="https://iiif.io/" target="_blank">IIIF (International Image Interoperability Framework)(<a href="https://docs.google.com/document/d/1h9SPg9nlLA3TAdzkYxkyaFFNNf8m4PsbaIExcYwVLyo/edit#heading=h.q7mmne7d3bk2" target="_blank">why IIIF?</a>)&lt;/li&gt;
+  <li>Uses <a href="https://openseadragon.github.io/" target="_blank">OpenSeaDragon</a> viewer but can use any other</li>
+  <li>Creates a relatively small static site (vs. dynamic)</li>
+&lt;/ul&gt;
+
+# CollectionBuilder
+</a></li></ul>
+:ET
