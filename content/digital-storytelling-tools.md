@@ -9,7 +9,7 @@ has_toc: false
 
 ## About Scalar
 
-Scalar is a free, open source multimedia digital publishing platform. [Scalar](https://scalar.me/anvc/scalar/features/)  makes it easy “for authors to write long-form, born-digital scholarship online”. It is sponsored by The Alliance for Networking Visual Culture. 
+Scalar is a free, open source multimedia digital publishing platform. [Scalar](https://scalar.me/anvc/scalar/features/)  makes it easy “for authors to write long-form, born-digital scholarship online”.  It is sponsored by The Alliance for Networking Visual Culture. 
 
 Scalar allows you to take advantage of the Internet to create a multimedia project including essays and book-length works. 
 
@@ -41,15 +41,60 @@ When you create a book in Scalar, it is automatically set to private. You can ma
 
 Accessibility is important. There are steps you can take to make sure you are making the exhibit as accessible as possible. For example, if you are uploading multimedia content such as videos or sound clips, make sure you have included a transcription. When uploading images to websites, you should include alt-text. Alt-text provides a description of an image that can be read by a screen reader.
 
+## Building a Book with Scalar
 
-# KnightLabs
+Scalar projects are composed of three main units: Media, Pages, and Paths.
 
-## Storymaps
+**Media** can include videos, images, or documents. Each piece of media has its own URL. Media can be displayed by adding them to your pages. 
 
-## Timelinejs
+**Pages** are where you build your content. You can add text, multimedia, and add annotations.
+
+**Paths** connect the pages of your book. They allow you to create a network of connections within your book (i.e. your book does not need to follow a linear path).
+
+## Sharing Your Scalar Project 
+
+Scalar automatically makes your project private. If you would like to create an accessible URL  without a login (and thus crawlable by search engines), set **Make URL public?** to Yes. To make your book accessible in Scalar's Index page, set **Display in Scalar indexes?** to Yes.
+
+You can also allow others to duplicate your book. Under the **Sharing** tab, set **Duplicability** to Yes. 
+
+## Exporting Your Scalar Project 
+
+The content of your book project can be backed up and exported as a RDF-JSON file under the **Sharing** tab. 
+
+# Knight Lab
+
+Northwestern University Knight Lab “develops prototypes, projects and services that help make information meaningful and promote quality journalism, storytelling and content on the internet” (Projects, Knight Lab). Knight Lab produces free, open source storytelling tools such as StoryMaps, Timeline, Juxtapose, etc. 
+
+## StorymapsJS 
+
+StoryMaps is a visual tool that helps you tell a story using visuals and maps. 
+
+### Getting Started with StorymapsJS 
+
+To get started, go to https://storymap.knightlab.com/#overview and select the large green button that says **Make a StoryMap**. You will be prompted to sign in using your Google account. 
+
+To create a new map, select the green **New** button, and then create a title for your StoryMap (don’t worry, you can edit it after). 
+
+### How to Build a Storymap 
+
+StoryMaps are created using Slides. You can add additional slides by using the pane on the left hand side of the screen. 
+
+On each slide, you can add a *Title*, *Text*, and *Media*. 
+
+## TimelineJS
+
+TimelineJS is an open-source tool that enables anyone to build visually rich, interactive timelines. 
+
+### How to Build a Timeline
+
+In order to make a timeline, you’ll need to create a spreadsheet using the template provided by KnightLab. Follow the directions on the Knight Lab website http://timeline.knightlab.com/. 
+
+## Sharing Timelines and Storymaps
+
+Both the timelines and storymaps created in Knight Lab can be shared publicly either by using a URL or the embed code. 
 
 # Embeddable tools
-Similar to Knightlabs there are many tools that allow embedding.
+Similar to Knight Lab there are many tools that allow embedding.
 
 Considerations on whether to use a tool? Dependencies?
 
