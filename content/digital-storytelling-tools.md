@@ -93,6 +93,21 @@ In order to make a timeline, you’ll need to create a spreadsheet using the tem
 
 Both the timelines and storymaps created in Knight Lab can be shared publicly either by using a URL or the embed code. 
 
+# Finding Primary Sources
+
+Many museums, galleries, archives, and libraries have made some or all of their collections open access. If you're looking for openly licensed primary sources or sources in the public domain to use in your digital projects, here is a list to help get you started. 
+
+Make sure to check the individual license of the image that you want to use and include a citation or attribution for the image in your work. 
+{: .note}
+
+1. [Art Institute of Chicago](https://www.artic.edu/collection) 
+2. [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/)
+3. [The Cleveland Museum of Art](https://www.clevelandart.org/art/collections)
+4. [J. Paul Getty Museum](https://search.getty.edu/gateway/search?q=&cat=highlight&f=%22Open+Content+Images%22&rows=10&srt=a&dir=s&pg=1) 
+5. [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search#!?searchField=All&showOnly=openAccess&sortBy=relevance&offset=0&pageSize=0) 
+6. [The Rijksmuseum](https://www.rijksmuseum.nl/en/rijksstudio) 
+7. [Paris Musée](https://www.parismuseescollections.paris.fr/fr/recherche/avec-image/1) 
+
 # Embeddable tools
 Similar to Knight Lab there are many tools that allow embedding.
 
