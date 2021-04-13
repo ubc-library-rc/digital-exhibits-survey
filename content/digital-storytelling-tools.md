@@ -98,7 +98,7 @@ Both the timelines and storymaps created in Knight Lab can be shared publicly ei
 Many museums, galleries, archives, and libraries have made some or all of their collections open access. If you're looking for openly licensed primary sources or sources in the public domain to use in your digital projects, here is a list to help get you started. 
 
 Make sure to check the individual license of the image that you want to use and include a citation or attribution for the image in your work. 
-{: .note}
+
 
 1. [Art Institute of Chicago](https://www.artic.edu/collection) 
 2. [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/)
