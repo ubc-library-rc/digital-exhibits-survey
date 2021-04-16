@@ -24,4 +24,4 @@ At the end of this session, you will be able to:
 | 1:00 - 3:00 | Hands-on activities (optional) |   
 
 ## Resources
-*
+* [Slides for today's session](https://docs.google.com/presentation/d/1gxltBBWwqZbB-pbxQm6uMWlF1UWsp2hwfjwWWEhDJ5Y/edit?usp=sharing)
