@@ -13,6 +13,7 @@ A short selection of resources that we have mentioned in the course of the works
 * [Upcoming events](https://researchcommons.library.ubc.ca/events/)
 * [Open Workshop Materials](https://ubc-library-rc.github.io/)
 * Schedule a consult with Digital Scholarship Librarian or skilled GAAs on technical topics: [https://researchcommons.library.ubc.ca/consultation-requests/](https://researchcommons.library.ubc.ca/consultation-requests/)
+* For general queries about subject specific exhibit content, connect with your subject librarian: [https://directory.library.ubc.ca/subjectlibrarians/](https://directory.library.ubc.ca/subjectlibrarians/)
 
 ### Center for Scholarly Communication (at UBC-O)
 * Website [https://library.ok.ubc.ca/research/csc/](library.ok.ubc.ca/research/csc/)
