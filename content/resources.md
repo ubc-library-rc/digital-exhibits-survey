@@ -41,3 +41,24 @@ A short selection of resources that we have mentioned in the course of the works
 * [Educloud](https://it.ubc.ca/services/web-servers-storage/educloud-server-service)
 * External to UBC, [Reclaim Hosting](https://reclaimhosting.com/) is a good academic-focused option and has Canadian servers in Toronto via Digital Ocean.
 * For some projects [Compute Canada](https://www.computecanada.ca/research-portal/national-services/compute-canada-cloud/) can be a great option; connect with [UBC ARC](https://arc.ubc.ca/about-arc/about-arc/contact-us) to learn more. 
+
+## Sourcing content
+* [The Metropolitan Museum of Art, New York](https://www.metmuseum.org/art/collection)* 
+* [Art Institute of Chicago](https://www.artic.edu/collection)* 
+* [J. Paul Getty Museum, Los Angeles](https://www.getty.edu/about/whatwedo/opencontent.html)* 
+* [National Gallery of Art, Washington DC](https://www.nga.gov/collection/collection-search.html)* 
+* [Library of Congress](http://www.loc.gov/pictures/)* 
+* [New York Public Library](https://www.nypl.org/research/collections/digital-collections/public-domain)* 
+* [Smithsonian Institution, Washington DC](https://www.si.edu/openaccess)* 
+* [Cleveland Museum of Art](https://www.clevelandart.org/art/collections)* 
+* [Los Angeles County Museum of Art](https://collections.lacma.org/)(‘show public domain images only’)* 
+* [Harvard Art Museums](https://harvardartmuseums.org/collections)* 
+* [Yale University (Art Gallery & Center for British Art)](https://artgallery.yale.edu/using-images)* 
+* [Paris Musées](https://www.parismuseescollections.paris.fr/fr)* 
+* [The Belvedere, Vienna](https://www.belvedere.at/en/open-content)* 
+* [Pinakothek, Munich](https://www.sammlung.pinakothek.de/en/)* 
+* [Wellcome Collection, London](https://wellcomecollection.org/works)* 
+* [Rijksmuseum, Amsterdam](https://www.rijksmuseum.nl/en/research/image-requests)* 
+* [Museum of New Zealand](https://collections.tepapa.govt.nz/)* 
+
+
