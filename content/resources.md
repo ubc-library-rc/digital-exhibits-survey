@@ -43,6 +43,7 @@ A short selection of resources that we have mentioned in the course of the works
 * For some projects [Compute Canada](https://www.computecanada.ca/research-portal/national-services/compute-canada-cloud/) can be a great option; connect with [UBC ARC](https://arc.ubc.ca/about-arc/about-arc/contact-us) to learn more. 
 
 ## Sourcing content
+Below is a list of Open GLAMs (Galleries, Libraries, Archives, Museums) that you can source images for your project from.
 * [The Metropolitan Museum of Art, New York](https://www.metmuseum.org/art/collection)
 * [Art Institute of Chicago](https://www.artic.edu/collection) 
 * [J. Paul Getty Museum, Los Angeles](https://www.getty.edu/about/whatwedo/opencontent.html)
