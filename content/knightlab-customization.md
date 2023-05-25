@@ -4,6 +4,20 @@ title: Customizing Knightlab Tools
 nav_order: 2
 parent: Digital storytelling
 ---
+## Customizing TimelineJS
+Once you've followed the steps to <a href="https://ubc-library-rc.github.io/digital-exhibits-survey/content/digital-storytelling-tools.html#timelinejs">set up and begin editing TimelineJS</a>, you can customize the look of the Timeline.
+ 
+<aside class="note">
+<strong>I have a spreadsheet, now what?</strong> Read through the pre-existing text that comes within the spreadsheet that Knightlab generates for you for a general overview of what each column represents. Once you enter your content, return to the Knightlab webpage and paste your spreadsheet URL to generate an iframe to embed your Timeline to your website.</u>
+</aside>
+
+Your Timeline spreadsheet provides several columns to customize the look of your final product.
+1. Column L-O "Media": Entering an image link in column L will show a "featured image" on the left side of the Timeline entry.
+2. Column R "Background": Entering an image link here will display your image as the background for your text.
+
+For more information on customizing TimelineJS, read <a href="https://timeline.knightlab.com/docs/using-spreadsheets.html">Knightlab's Guide</a>.
+
+<hr>
 
 # Customizing Knightlab Tools
 ## Customizing StoryMapJS
@@ -58,11 +72,6 @@ Once there, you will find:
 
 All of these options allow you to customize StoryMapJS to suit your needs!
 <iframe src="https://uploads.knightlab.com/storymapjs/d31a5d91aae4442a404ed21a6ca6945b/new/index.html" frameborder="0" width="100%" height="800" alt="an example storymap that demonstrates the customization options"></iframe>
+  
 
-<hr>
-  
-## Customizing TimelineJS
-Once you've followed the steps to <a href="https://ubc-library-rc.github.io/digital-exhibits-survey/content/digital-storytelling-tools.html#timelinejs">set up and begin editing TimelineJS</a>, you can customize the look of the Timeline.
-  
-Your Timeline spreadsheet provides several columns to customize the look of your final product.
 
