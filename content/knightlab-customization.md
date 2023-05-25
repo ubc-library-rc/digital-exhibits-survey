@@ -20,7 +20,7 @@ Clicking on the "Options" button will open a pop-up menu with two tabs. Below is
 <strong>Can't click on the "Options" button?</strong> Check if you are on the "editing" tab or "preview" tab at the center-top of you StoryMap interface. <u>You have to be in the editing tab to click on the "Options" button.</u>
 </aside>
 
-### Display Customization
+## Display Customization
 StoryMap Size: This allows you to specify the dimensions of the StoryMap that you share. You can also edit this in the "Share" settings.
 Language: This will set the language of the navigation buttons your completed storymap. 
 Fonts: This will determine the fonts used for your StoryMap titles and text boxes. Each font option offers a pair of fonts, the first one is for the titles, the latter for the text boxes.
@@ -29,24 +29,24 @@ Treat as Cartography or Image: In the vast majority of cases, this will be set t
 Call to Action: Selecting "yes" will give you a button on the title slide which will read "start exploring" by default. You can edit this text, or select "no" to remove the button (though we recommend keeping it).
 Map Type: This will allow you to select either one of the preset Stamen Maps in various colors or upload/link to a custom map or image.
 
-### Customizing Slides
+## Customizing Slides
 The interface provides an editing tab and a preview tab at the top-center of the screen, so you can switch between them as you edit to preview your edits and customizations.
 
 You will see that your editing interface is split into several sections. A <u>slide overview</u> on the left, a <u>map view</u> at the center, and below the map, a <u>media menu</u> on the left and a <u>text menu</u> on the right.
 
-#### Title Slide
+### Title Slide
 The title slide does not allow you to edit the map, as this map will be populated with all of the geographical points from your other slides.
 
-#### Inserting Media into Slides
+### Inserting Media into Slides
 You can either have an image display as a featured image or a background image.
 1. A featured image will appear above the slide's heading text, and will have a white background unless altered. To create a featured image, use the media menu to upload or URL to the image you want, and provide an attribution and caption.
 2. A background image will appear as the backdrop for your heading text and content text. To create a background image, click on the "Background Options" button below the text menu and either upload an image or provide a URL for your image.
 
-#### Other Customization Options
+### Other Customization Options
 1. Background color: you can also change the background color of your featured image and text in the "Background Options" button. Simply copy and paste a Hex code or select a color from the color spectrum.
 2. Map markers: you can upload custom map markers for your plotted points by uploading an image in the "Marker Options" button. Choose your file from your device and click "Upload" - once it has been successfully uploaded to StoryMap, it will appear in the dropdown menu directly above the "Choose File" button.
 
-### Sharing Customization
+## Sharing Customization
 Once your StoryMap is ready, click on the "Share" button in the top right. (You can also open the "Settings" tab at the top left and select the "Sharing" tab to open the share settings.)
 
 Once there, you will find
