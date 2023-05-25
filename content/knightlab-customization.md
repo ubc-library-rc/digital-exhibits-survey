@@ -32,9 +32,7 @@ Map Type: This will allow you to select either one of the preset Stamen Maps in 
 ### Customizing Slides
 The interface provides an editing tab and a preview tab at the top-center of the screen, so you can switch between them as you edit to preview your edits and customizations.
 
-You will see that your editing interface is split into several sections. A <u>slide overview</u> on the left, a <u>map view</u> at the center, and below the map, a <u>media menu</u> on the left and a <u>text menu</u> on the right. You can see a side by side of the editing and preview interfaces below. Move the vertical bar from left to right to compare.
-
-<iframe frameborder="0" class="juxtapose" width="100%" height="881" alt="a screenshot of the editing and preview interface of StoryMap, with a side-by-side comparison feature" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=3f037982-fb36-11ed-b5bd-6595d9b17862"></iframe>
+You will see that your editing interface is split into several sections. A <u>slide overview</u> on the left, a <u>map view</u> at the center, and below the map, a <u>media menu</u> on the left and a <u>text menu</u> on the right.
 
 #### Title Slide
 The title slide does not allow you to edit the map, as this map will be populated with all of the geographical points from your other slides.
@@ -59,4 +57,4 @@ Once there, you will find
 5. an option to export the StoryMap package (all of its images, map markers, etc.) to another user's account or another server.
 
 All of these options allow you to customize StoryMapJS to suit your needs!
-<iframe src="https://uploads.knightlab.com/storymapjs/d31a5d91aae4442a404ed21a6ca6945b/new/index.html" frameborder="0" width="150%" height="800"></iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/d31a5d91aae4442a404ed21a6ca6945b/new/index.html" frameborder="0" width="150%" height="800" alt="an example storymap that demonstrates the customization options"></iframe>
