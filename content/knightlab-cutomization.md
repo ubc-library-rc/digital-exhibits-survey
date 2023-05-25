@@ -17,5 +17,5 @@ b) open the sharing options, which we will explore in [Sharing Customization](##
 
 To customize the look of the Storymap, 
 
-(###Sharing-Customization)
+###Sharing-Customization
 
