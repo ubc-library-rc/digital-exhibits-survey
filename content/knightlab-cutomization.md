@@ -13,12 +13,12 @@ Once you've followed the steps to <a href="https://ubc-library-rc.github.io/digi
 At the very top left of your Storymap interface, there will be a button for "Options". 
 
 <aside class="note">
-The interface provides an editing tab and a preview tab at the top-center of the screen, so you can switch between them as you edit to preview your edits and customizations. <strong>Keep in mind that you <u>cannot change the General Storymap settings while in the preview tab - you have to be in the editing tab</u> to click on the "Options" button.</strong>
+<strong>Can't click on the "Options" button?</strong> Check if you are on the "editing" tab or "preview" tab at the center-top of you Storymap interface. You have to be in the editing tab to click on the "Options" button.
 </aside>
 
 Clicking on the "Options" button will open a pop-up menu with two tabs. Below is what they each allow you to do.
 a) "Display" tab: customizing the look of the Storymap itself, rather than the individual slides and their contents, and
-b) "Share" tab: open the sharing options, which we will explore in [Sharing Customization](###Sharing-Customization)
+b) "Share" tab: open the sharing options, which we will explore in <a href="https://ubc-library-rc.github.io/digital-exhibits-survey/content/knightlab-cutomization.html#sharing-customization">Sharing Customization</a>.
 
 ### Display Customization
 <strong>StoryMap Size</strong>
@@ -36,6 +36,7 @@ This will set the language of the navigation buttons your completed storymap.
 ### Sharing Customization
 
 ### Customizing Slides
+The interface provides an editing tab and a preview tab at the top-center of the screen, so you can switch between them as you edit to preview your edits and customizations.
 #### Opening Slide
 
 
