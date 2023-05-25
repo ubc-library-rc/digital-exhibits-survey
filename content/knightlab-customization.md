@@ -21,13 +21,13 @@ Clicking on the "Options" button will open a pop-up menu with two tabs. Below is
 </aside>
 
 ## Display Customization
-StoryMap Size: This allows you to specify the dimensions of the StoryMap that you share. You can also edit this in the "Share" settings.
-Language: This will set the language of the navigation buttons your completed storymap. 
-Fonts: This will determine the fonts used for your StoryMap titles and text boxes. Each font option offers a pair of fonts, the first one is for the titles, the latter for the text boxes.
-Language: Use this to change the language setting for the navigational buttons at the top left of the StoryMap, where it would say "Map Overview" and "Back To Beginning."
-Treat as Cartography or Image: In the vast majority of cases, this will be set to Cartography. For those interested in using StoryMap to create a tour of an image, you can read <a href="https://storymap.knightlab.com/gigapixel/">Knightlab's guide to StoryMap for Images</a>.
-Call to Action: Selecting "yes" will give you a button on the title slide which will read "start exploring" by default. You can edit this text, or select "no" to remove the button (though we recommend keeping it).
-Map Type: This will allow you to select either one of the preset Stamen Maps in various colors or upload/link to a custom map or image.
+1. StoryMap Size: This allows you to specify the dimensions of the StoryMap that you share. You can also edit this in the "Share" settings.
+2. Language: This will set the language of the navigation buttons your completed storymap. 
+3. Fonts: This will determine the fonts used for your StoryMap titles and text boxes. Each font option offers a pair of fonts, the first one is for the titles, the latter for the text boxes.
+4. Language: Use this to change the language setting for the navigational buttons at the top left of the StoryMap, where it would say "Map Overview" and "Back To Beginning."
+5. Treat as Cartography or Image: In the vast majority of cases, this will be set to Cartography. For those interested in using StoryMap to create a tour of an image, you can read <a href="https://storymap.knightlab.com/gigapixel/">Knightlab's guide to StoryMap for Images</a>.
+6. Call to Action: Selecting "yes" will give you a button on the title slide which will read "start exploring" by default. You can edit this text, or select "no" to remove the button (though we recommend keeping it).
+7. Map Type: This will allow you to select either one of the preset Stamen Maps in various colors or upload/link to a custom map or image.
 
 ## Customizing Slides
 The interface provides an editing tab and a preview tab at the top-center of the screen, so you can switch between them as you edit to preview your edits and customizations.
