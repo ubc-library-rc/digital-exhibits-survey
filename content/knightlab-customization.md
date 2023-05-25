@@ -32,11 +32,31 @@ Map Type: This will allow you to select either one of the preset Stamen Maps in 
 ### Customizing Slides
 The interface provides an editing tab and a preview tab at the top-center of the screen, so you can switch between them as you edit to preview your edits and customizations.
 
-You will see that your editing interface is split into several sections. A slide overview on the left, a map view at the center, and below the map, an image menu on the left and a text menu on the right. You can see a side by side of the editing and preview interfaces below.
+You will see that your editing interface is split into several sections. A <u>slide overview</u> on the left, a <u>map view</u> at the center, and below the map, a <u>media menu</u> on the left and a <u>text menu</u> on the right. You can see a side by side of the editing and preview interfaces below. Move the vertical bar from left to right to compare.
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="881" alt="a screenshot of the editing and preview interface of StoryMap, with a side-by-side comparison feature" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=3f037982-fb36-11ed-b5bd-6595d9b17862"></iframe>
 
 #### Title Slide
 The title slide does not allow you to edit the map, as this map will be populated with all of the geographical points from your other slides.
 
+#### Inserting Media into Slides
+You can either have an image display as a featured image or a background image.
+1. A featured image will appear above the slide's heading text, and will have a white background unless altered. To create a featured image, use the media menu to upload or URL to the image you want, and provide an attribution and caption.
+2. A background image will appear as the backdrop for your heading text and content text. To create a background image, click on the "Background Options" button below the text menu and either upload an image or provide a URL for your image.
+
+#### Other Customization Options
+1. Background color: you can also change the background color of your featured image and text in the "Background Options" button. Simply copy and paste a Hex code or select a color from the color spectrum.
+2. Map markers: you can upload custom map markers for your plotted points by uploading an image in the "Marker Options" button. Choose your file from your device and click "Upload" - once it has been successfully uploaded to StoryMap, it will appear in the dropdown menu directly above the "Choose File" button.
+
 ### Sharing Customization
+Once your StoryMap is ready, click on the "Share" button in the top right. (You can also open the "Settings" tab at the top left and select the "Sharing" tab to open the share settings.)
+
+Once there, you will find
+1. a URL that you can share in various social media platforms
+2. an options to add a description
+3. an option to add a featured image
+4. an option for embedding your StoryMap into other websites, such as Wordpress or Scalar (You can change the dimensions for the embed below the iframe code - be sure to copy the iframe code <u>after</u> you edit the dimensions. You can also edit the width and height in the iframe code yourself.)
+5. an option to export the StoryMap package (all of its images, map markers, etc.) to another user's account or another server.
+
+All of these options allow you to customize StoryMapJS to suit your needs!
+<iframe src="https://uploads.knightlab.com/storymapjs/d31a5d91aae4442a404ed21a6ca6945b/new/index.html" frameborder="0" width="150%" height="800"></iframe>
