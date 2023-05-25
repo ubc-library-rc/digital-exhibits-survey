@@ -34,6 +34,8 @@ The interface provides an editing tab and a preview tab at the top-center of the
 
 You will see that your editing interface is split into several sections. A slide overview on the left, a map view at the center, and below the map, an image menu on the left and a text menu on the right.
 
+<iframe frameborder="0" class="juxtapose" width="100%" height="null" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5a5ea0d6-fb35-11ed-b5bd-6595d9b17862"></iframe>
+
 #### Title Slide
 The title slide does not allow you to edit the map, as this map will be populated with all of the geographical points from your other slides.
 
