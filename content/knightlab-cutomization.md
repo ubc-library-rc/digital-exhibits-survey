@@ -28,7 +28,7 @@ b) "Share" tab: open the sharing options, which we will explore in [Sharing Cust
 
 ##Sharing-Customization
 
-###Customizing Slides
-####Opening Slide
-####
+##Customizing Slides
+##Opening Slide
+
 
