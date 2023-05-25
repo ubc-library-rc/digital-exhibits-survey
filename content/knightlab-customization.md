@@ -4,6 +4,7 @@ title: Customizing Knightlab Tools
 nav_order: 2
 parent: Digital storytelling
 ---
+# Customizing Knightlab Tools
 ## Customizing TimelineJS
 Once you've followed the steps to <a href="https://ubc-library-rc.github.io/digital-exhibits-survey/content/digital-storytelling-tools.html#timelinejs">set up and begin editing TimelineJS</a>, you can customize the look of the Timeline.
  
@@ -19,7 +20,6 @@ For more information on customizing TimelineJS, read <a href="https://timeline.k
 
 <hr>
 
-# Customizing Knightlab Tools
 ## Customizing StoryMapJS
 Once you've followed the steps to <a href="https://ubc-library-rc.github.io/digital-exhibits-survey/content/digital-storytelling-tools.html#storymapsjs">set up and begin editing StoryMapJS</a>, you can customize the look of the StoryMap.
 
