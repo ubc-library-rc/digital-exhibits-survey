@@ -60,6 +60,10 @@ You can either have an image display as <u>a featured image</u> or a <u>backgrou
 1. **Background color**: you can also change the background color of your featured image and text in the "Background Options" button. Simply copy and paste a Hex code or select a color from the color spectrum.
 2. **Map markers**: you can upload custom map markers for your plotted points by uploading an image in the "Marker Options" button. Choose your file from your device and click "Upload" - once it has been successfully uploaded to StoryMap, it will appear in the dropdown menu directly above the "Choose File" button.
 
+<aside class="note">
+ **Be sure to click "Save" and "Publish Changes" at the top left once you're done!**
+ </aside>
+
 ## Sharing Customization
 Once your StoryMap is ready, click on the "Share" button in the top right. (You can also open the "Settings" tab at the top left and select the "Sharing" tab to open the share settings.)
 
