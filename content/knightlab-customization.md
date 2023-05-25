@@ -32,9 +32,9 @@ Map Type: This will allow you to select either one of the preset Stamen Maps in 
 ### Customizing Slides
 The interface provides an editing tab and a preview tab at the top-center of the screen, so you can switch between them as you edit to preview your edits and customizations.
 
-You will see that your editing interface is split into several sections. A slide overview on the left, a map view at the center, and below the map, an image menu on the left and a text menu on the right.
+You will see that your editing interface is split into several sections. A slide overview on the left, a map view at the center, and below the map, an image menu on the left and a text menu on the right. You can see a side by side of the editing and preview interfaces below.
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="null" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5a5ea0d6-fb35-11ed-b5bd-6595d9b17862"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="881" alt="a screenshot of the editing and preview interface of StoryMap, with a side-by-side comparison feature" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=3f037982-fb36-11ed-b5bd-6595d9b17862"></iframe>
 
 #### Title Slide
 The title slide does not allow you to edit the map, as this map will be populated with all of the geographical points from your other slides.
