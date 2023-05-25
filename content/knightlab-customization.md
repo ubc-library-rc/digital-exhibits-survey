@@ -61,7 +61,7 @@ You can either have an image display as <u>a featured image</u> or a <u>backgrou
 2. **Map markers**: you can upload custom map markers for your plotted points by uploading an image in the "Marker Options" button. Choose your file from your device and click "Upload" - once it has been successfully uploaded to StoryMap, it will appear in the dropdown menu directly above the "Choose File" button.
 
 <aside class="note">
- **Be sure to click "Save" and "Publish Changes" at the top left once you're done!**
+ <strong>Be sure to click "Save" and "Publish Changes" at the top left once you're done!</strong>
  </aside>
 
 ## Sharing Customization
