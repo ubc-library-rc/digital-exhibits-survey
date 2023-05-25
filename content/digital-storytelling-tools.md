@@ -65,9 +65,9 @@ The content of your book project can be backed up and exported as a RDF-JSON fil
 
 Northwestern University Knight Lab “develops prototypes, projects and services that help make information meaningful and promote quality journalism, storytelling and content on the internet” (Projects, Knight Lab). Knight Lab produces free, open source storytelling tools such as StoryMaps, Timeline, Juxtapose, etc.
 
-## StorymapsJS
+## StorymapJS
 
-StoryMaps is a visual tool that helps you tell a story using visuals and maps.
+StoryMapJS is a visual tool that helps you tell a story using visuals and maps.
 
 ### Getting Started with StorymapsJS
 
@@ -75,7 +75,7 @@ To get started, go to https://storymap.knightlab.com/#overview and select the la
 
 To create a new map, select the green **New** button, and then create a title for your StoryMap (don’t worry, you can edit it after).
 
-### How to Build a Storymap
+### How to Build a StoryMap
 
 StoryMaps are created using Slides. You can add additional slides by using the pane on the left hand side of the screen.
 
