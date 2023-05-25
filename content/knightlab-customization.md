@@ -23,7 +23,7 @@ For more information on customizing TimelineJS, read <a href="https://timeline.k
 ## Customizing StoryMapJS
 Once you've followed the steps to <a href="https://ubc-library-rc.github.io/digital-exhibits-survey/content/digital-storytelling-tools.html#storymapsjs">set up and begin editing StoryMapJS</a>, you can customize the look of the StoryMap.
 
-## General Storymap Customization
+## General StoryMap Customization
 At the very top left of your StoryMap interface, there will be a button for "Options". 
 
 Clicking on the "Options" button will open a pop-up menu with two tabs. Below is what they each allow you to do.
