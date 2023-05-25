@@ -13,7 +13,7 @@ Once you've followed the steps to <a href="https://ubc-library-rc.github.io/digi
 At the very top left of your Storymap interface, there will be a button for "Options". 
 
 <aside class="note">
-**Note**: The interface provides an editing tab and a preview tab at the top-center of the screen, so you can switch between them as you edit to preview your edits and customizations. **Keep in mind that you cannot change the General Storymap settings while in the preview tab - you have to be in the editing tab to click on the "Options" button**.
+The interface provides an editing tab and a preview tab at the top-center of the screen, so you can switch between them as you edit to preview your edits and customizations. <strong>Keep in mind that you <u>cannot change the General Storymap settings while in the preview tab - you have to be in the editing tab</u> to click on the "Options" button.</strong>
 </aside>
 
 Clicking on the "Options" button will open a pop-up menu with two tabs. Below is what they each allow you to do.
