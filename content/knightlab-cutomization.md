@@ -6,10 +6,10 @@ parent: Digital storytelling
 ---
 
 # Customizing Knightlab Tools
-## Customizing StorymapJS
+# Customizing StorymapJS
 Once you've followed the steps to <a href="https://ubc-library-rc.github.io/digital-exhibits-survey/content/digital-storytelling-tools.html#storymapsjs">set up and begin editing StorymapJS</a>, you can customize the look of the Storymap.
 </div>
-#General Storymap Customization
+## General Storymap Customization
 At the very top left of your Storymap interface, there will be a button for "Options". 
 
 <aside class="note">
@@ -20,7 +20,7 @@ Clicking on the "Options" button will open a pop-up menu with two tabs. Below is
 a) "Display" tab: customizing the look of the Storymap itself, rather than the individual slides and their contents, and
 b) "Share" tab: open the sharing options, which we will explore in [Sharing Customization](###Sharing-Customization)
 
-#Display Customization
+### Display Customization
 <strong>StoryMap Size</strong>
 This allows you to specify the dimensions of the Storymap that you share. You can also edit this in the "Share" settings.
 
@@ -33,9 +33,9 @@ This will set the language of the navigation buttons your completed storymap.
 
 <strong>Treat as Image/Cartography</strong>
 
-##Sharing-Customization
+### Sharing-Customization
 
-##Customizing Slides
-##Opening Slide
+### Customizing Slides
+#### Opening Slide
 
 
