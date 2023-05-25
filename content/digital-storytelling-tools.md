@@ -2,7 +2,7 @@
 layout: default
 title: Digital storytelling
 nav_order: 7
-has_children: false
+has_children: true
 has_toc: false
 ---
 # Scalar
