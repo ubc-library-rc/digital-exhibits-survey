@@ -57,4 +57,4 @@ Once there, you will find
 5. an option to export the StoryMap package (all of its images, map markers, etc.) to another user's account or another server.
 
 All of these options allow you to customize StoryMapJS to suit your needs!
-<iframe src="https://uploads.knightlab.com/storymapjs/d31a5d91aae4442a404ed21a6ca6945b/new/index.html" frameborder="0" width="150%" height="800" alt="an example storymap that demonstrates the customization options"></iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/d31a5d91aae4442a404ed21a6ca6945b/new/index.html" frameborder="0" width="100%" height="800" alt="an example storymap that demonstrates the customization options"></iframe>
