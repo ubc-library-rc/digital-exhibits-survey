@@ -58,6 +58,11 @@ Once there, you will find:
 
 All of these options allow you to customize StoryMapJS to suit your needs!
 <iframe src="https://uploads.knightlab.com/storymapjs/d31a5d91aae4442a404ed21a6ca6945b/new/index.html" frameborder="0" width="100%" height="800" alt="an example storymap that demonstrates the customization options"></iframe>
-<h>
+
+<hr>
+  
 ## Customizing TimelineJS
+Once you've followed the steps to <a href="https://ubc-library-rc.github.io/digital-exhibits-survey/content/digital-storytelling-tools.html#timelinejs">set up and begin editing TimelineJS</a>, you can customize the look of the Timeline.
+  
+Your Timeline spreadsheet provides several columns to customize the look of your final product.
 
