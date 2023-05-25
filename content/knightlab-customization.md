@@ -28,7 +28,7 @@ At the very top left of your StoryMap interface, there will be a button for "Opt
 
 Clicking on the "Options" button will open a pop-up menu with two tabs. Below is what they each allow you to do.
 1. **"Display" tab**: customizing the look of the StoryMap itself, rather than the individual slides and their contents.
-2. **"Share" tab**: open the sharing options, which we will explore in <a href="https://ubc-library-rc.github.io/digital-exhibits-survey/content/knightlab-cutomization.html#sharing-customization">Sharing Customization</a>.
+2. **"Share" tab**: open the sharing options, which we will explore in <a href="https://ubc-library-rc.github.io/digital-exhibits-survey/content/knightlab-customization.html#sharing-customization">Sharing Customization</a>.
 
 <aside class="note">
 <strong>Can't click on the "Options" button?</strong> Check if you are on the "editing" tab or "preview" tab at the center-top of you StoryMap interface. <u>You have to be in the editing tab to click on the "Options" button.</u>
