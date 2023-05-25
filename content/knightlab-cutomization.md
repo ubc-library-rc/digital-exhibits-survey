@@ -6,9 +6,9 @@ parent: Digital storytelling
 ---
 
 # Customizing Knightlab Tools
-# Customizing StorymapJS
+## Customizing StorymapJS
 Once you've followed the steps to <a href="https://ubc-library-rc.github.io/digital-exhibits-survey/content/digital-storytelling-tools.html#storymapsjs">set up and begin editing StorymapJS</a>, you can customize the look of the Storymap.
-</div>
+
 ## General Storymap Customization
 At the very top left of your Storymap interface, there will be a button for "Options". 
 
@@ -33,7 +33,7 @@ This will set the language of the navigation buttons your completed storymap.
 
 <strong>Treat as Image/Cartography</strong>
 
-### Sharing-Customization
+### Sharing Customization
 
 ### Customizing Slides
 #### Opening Slide
