@@ -38,18 +38,18 @@ You will see that your editing interface is split into several sections. A <u>sl
 The title slide does not allow you to edit the map, as this map will be populated with all of the geographical points from your other slides.
 
 ### Inserting Media into Slides
-You can either have an image display as a featured image or a background image.
-1. A featured image will appear above the slide's heading text, and will have a white background unless altered. To create a featured image, use the media menu to upload or URL to the image you want, and provide an attribution and caption.
-2. A background image will appear as the backdrop for your heading text and content text. To create a background image, click on the "Background Options" button below the text menu and either upload an image or provide a URL for your image.
+You can either have an image display as <u>a featured image</u> or a <u>background image</u>.
+1. **A featured image** will appear above the slide's heading text, and will have a white background unless altered. To create a featured image, use the media menu to upload or URL to the image you want, and provide an attribution and caption.
+2. **A background image** will appear as the backdrop for your heading text and content text. To create a background image, click on the "Background Options" button below the text menu and either upload an image or provide a URL for your image.
 
 ### Other Customization Options
-1. Background color: you can also change the background color of your featured image and text in the "Background Options" button. Simply copy and paste a Hex code or select a color from the color spectrum.
-2. Map markers: you can upload custom map markers for your plotted points by uploading an image in the "Marker Options" button. Choose your file from your device and click "Upload" - once it has been successfully uploaded to StoryMap, it will appear in the dropdown menu directly above the "Choose File" button.
+1. **Background color**: you can also change the background color of your featured image and text in the "Background Options" button. Simply copy and paste a Hex code or select a color from the color spectrum.
+2. **Map markers**: you can upload custom map markers for your plotted points by uploading an image in the "Marker Options" button. Choose your file from your device and click "Upload" - once it has been successfully uploaded to StoryMap, it will appear in the dropdown menu directly above the "Choose File" button.
 
 ## Sharing Customization
 Once your StoryMap is ready, click on the "Share" button in the top right. (You can also open the "Settings" tab at the top left and select the "Sharing" tab to open the share settings.)
 
-Once there, you will find
+Once there, you will find:
 1. a URL that you can share in various social media platforms
 2. an options to add a description
 3. an option to add a featured image
