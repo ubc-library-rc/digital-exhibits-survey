@@ -9,7 +9,7 @@ parent: Digital storytelling
 Once you've followed the steps to <a href="https://ubc-library-rc.github.io/digital-exhibits-survey/content/digital-storytelling-tools.html#timelinejs">set up and begin editing TimelineJS</a>, you can customize the look of the Timeline.
  
 <aside class="note">
-<strong>I have a spreadsheet, now what?</strong> Read through the pre-existing text that comes within the spreadsheet that Knightlab generates for you for a general overview of what each column represents. Once you enter your content, return to the Knightlab webpage and paste your spreadsheet URL to generate an iframe to embed your Timeline to your website.</u>
+<strong>I have a spreadsheet, now what?</strong> Read through the pre-existing text that comes within the spreadsheet that Knightlab generates for you for a general overview of what each column represents. Once you enter your content, return to the Knightlab webpage and paste your spreadsheet URL to generate an iframe to embed your Timeline to your website.
 </aside>
 
 Your Timeline spreadsheet provides several columns to customize the look of your final product.
