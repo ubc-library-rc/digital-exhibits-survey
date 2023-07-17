@@ -53,8 +53,8 @@ You will see that your editing interface is split into several sections. A <u>sl
 
 ### Title Slide
 The title slide does not allow you to edit the map, as this map will be populated with all of the geographical points from your other slides.
-<img src="images/Knightlab-storymap-1.PNG" alt="StoryMap title slide editing screen" width="800" height="auto">
-<img src="images/Knightlab-storymap-2.PNG" alt="StoryMap title slide preview screen" width="800" height="auto">
+<img src="images/Knightlab-storymap-1.png" alt="StoryMap title slide editing screen" width="800" height="auto">
+<img src="images/Knightlab-storymap-2.png" alt="StoryMap title slide preview screen" width="800" height="auto">
 
 
 ### Inserting Media into Slides
