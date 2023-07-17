@@ -13,8 +13,11 @@ Once you've followed the steps to <a href="https://ubc-library-rc.github.io/digi
 </aside>
 
 Your Timeline spreadsheet provides several columns to customize the look of your final product.
-1. **Column L-O "Media"**: Entering an image link in column L will show a "featured image" on the left side of the Timeline entry.
+1. **Column L-O "Media"**: Entering an image link in column L will show a "featured image" on the left side of the Timeline entry. This can be an image or a video.
+<img src="https://github.com/ubc-library-rc/digital-exhibits-survey/blob/main/content/images/Knightlab-Timeline-1.PNG">
+   
 2. **Column R "Background"**: Entering an image link here will display your image as the background for your Timeline entry.
+<img src="https://github.com/ubc-library-rc/digital-exhibits-survey/blob/main/content/images/Knightlab-Timeline-2.PNG">
 
 For more information on customizing TimelineJS, read <a href="https://timeline.knightlab.com/docs/using-spreadsheets.html">Knightlab's Guide</a>.
 
