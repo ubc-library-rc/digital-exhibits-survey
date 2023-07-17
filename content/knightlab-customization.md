@@ -47,15 +47,18 @@ Clicking on the "Options" button will open a pop-up menu with two tabs. Below is
 7. **Map Type**: This will allow you to select either one of the preset Stamen Maps in various colors or upload/link to a custom map or image.
 
 ## Customizing Slides
-The interface provides an editing tab and a preview tab at the top-center of the screen, so you can switch between them as you edit to preview your edits and customizations.
+The interface provides an **editing tab and a preview tab at the top-center of the screen**.
 
-You will see that your editing interface is split into several sections. A <u>slide overview</u> on the left, a <u>map view</u> at the center, and below the map, a <u>media menu</u> on the left and a <u>text menu</u> on the right.
+### Editing View
+You will see that your editing view is split into several sections. A <u>slide overview</u> on the left, a <u>map view</u> at the center, and below the map, a <u>media menu</u> on the left and a <u>text menu</u> on the right.
+<img src="images/Knightlab-storymap-1.png" alt="StoryMap title slide editing screen" width="600" height="auto">
+
+### Preview View
+Switch to this view to review your layout and text.
+<img src="images/Knightlab-storymap-2.png" alt="StoryMap title slide preview screen" width="600" height="auto">
 
 ### Title Slide
 The title slide does not allow you to edit the map, as this map will be populated with all of the geographical points from your other slides.
-<img src="images/Knightlab-storymap-1.png" alt="StoryMap title slide editing screen" width="800" height="auto">
-<img src="images/Knightlab-storymap-2.png" alt="StoryMap title slide preview screen" width="800" height="auto">
-
 
 ### Inserting Media into Slides
 You can either have an image display as <u>a featured image</u> or a <u>background image</u>.
