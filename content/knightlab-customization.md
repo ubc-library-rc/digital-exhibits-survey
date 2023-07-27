@@ -39,7 +39,7 @@ Clicking on the "Options" button will open a pop-up menu with two tabs. Below is
 
 ## Display Customization
 1. **StoryMap Size**: This allows you to specify the dimensions of the StoryMap that you share. You can also edit this in the "Share" settings.
-2. **Language**: This will set the language of the navigation buttons your completed storymap. 
+2. **Language**: This will set the language of the navigation buttons your completed StoryMap. 
 3. **Fonts**: This will determine the fonts used for your StoryMap titles and text boxes. Each font option offers a pair of fonts, the first one is for the titles, the latter for the text boxes.
 4. **Language**: Use this to change the language setting for the navigational buttons at the top left of the StoryMap, where it would say "Map Overview" and "Back To Beginning."
 5. **Treat as Cartography or Image**: In the vast majority of cases, this will be set to Cartography. For those interested in using StoryMap to create a tour of an image, you can read <a href="https://storymap.knightlab.com/gigapixel/">Knightlab's guide to StoryMap for Images</a>.
