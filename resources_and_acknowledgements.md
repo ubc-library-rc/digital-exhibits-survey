@@ -3,11 +3,6 @@ layout: default
 title: Resources and acknowledgements
 nav_order: 20
 ---
----
-layout: default
-title: Resources
-nav_order: 10
----
 # Resources
 A short selection of resources that we have mentioned in the course of the workshop or suggest for futher exploration.
 
