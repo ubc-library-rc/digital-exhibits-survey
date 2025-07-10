@@ -1,4 +1,4 @@
-# Digital Exhibits Survey
+# Creating Digital Exhibits: A Survey of Tools
 ### UBC Library Research Commons
 
  
