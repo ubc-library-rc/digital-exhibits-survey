@@ -15,7 +15,7 @@ Scalar allows you to take advantage of the Internet to create a multimedia proje
 
 ## Creating a Scalar Account
 
-1. Go to https://scalar.usc.edu/works/ and register for a free account. Note: If you did not receive a registration key from your workshop facilitator, you will need to request a registration key by filling out the form.
+1. Go to <a href="https://scalar.usc.edu/works/">https://scalar.usc.edu/works/</a> and register for a free account. Note: If you did not receive a registration key from your workshop facilitator, you will need to request a registration key by filling out the form.
 
 ## Getting Started
 
