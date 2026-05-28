@@ -6,7 +6,7 @@ parent: Omeka
 ---
 # How to set up a trial account (Demonstration)
 
-*1*{: .circle .circle-blue} Go to omeka.net
+*1*{: .circle .circle-blue} Go to <a href ="omeka.net">omeka.net</a>
 
 *2*{: .circle .circle-blue} Select “**Learn which plan is right for you**”
 
