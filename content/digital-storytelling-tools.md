@@ -71,7 +71,7 @@ StoryMapJS is a visual tool that helps you tell a story using visuals and maps.
 
 ### Getting Started with StorymapsJS
 
-To get started, go to https://storymap.knightlab.com/#overview and select the large green button that says **Make a StoryMap**. You will be prompted to sign in using your Google account.
+To get started, go to <a href="https://storymap.knightlab.com/#overview">https://storymap.knightlab.com/#overview</a> and select the large green button that says **Make a StoryMap**. You will be prompted to sign in using your Google account.
 
 To create a new map, select the green **New** button, and then create a title for your StoryMap (don’t worry, you can edit it after).
 
@@ -87,7 +87,7 @@ TimelineJS is an open-source tool that enables anyone to build visually rich, in
 
 ### How to Build a Timeline
 
-In order to make a timeline, you’ll need to create a spreadsheet using the template provided by KnightLab. Follow the directions on the Knight Lab website http://timeline.knightlab.com/.
+In order to make a timeline, you’ll need to create a spreadsheet using the template provided by KnightLab. Follow the directions on the Knight Lab website <a href="http://timeline.knightlab.com/">http://timeline.knightlab.com</a>
 
 ## Sharing Timelines and Storymaps
 
