@@ -21,21 +21,21 @@ Scalar allows you to take advantage of the Internet to create a multimedia proje
 
 1. Click on the **Dashboard** to start creating your book!
 
-2. Click on **My Account**. Under **My Books**, add the title of your new book and select **Create New Book**. Your new book will appear under my Books.
+2. Under **Books**, select **Create New Book**. Add the title of your new book and select **Create**. Your new book will appear under **Books**.
 
-3. Select the book you would like to edit from your drop-down menu. Under **Book Properties**, you can add or change basic information (e.g. title and author), style and publisher information.
+3. To edit a book, hover over the title and select **Dashboard**.  the book you would like to edit from your drop-down menu. Under **Properties**, you can add or change basic information (e.g. title and author), style and publisher information.
 
 ## Collaborate and Add Users
 
-You can add users to your book project so you can collaborate. Collaborators need to have their own Scalar account. Once they are registered, add them by selecting **Book Users**, and selecting **Add user** and searching for their name.
+You can add users to your book project so you can collaborate. Collaborators need to have their own Scalar account. Once they are registered, add them by selecting **Users**, and selecting **Add user** and searching for their name.
 
 ## Privacy
 
-Please be aware that Scalar stores its data in the United States. If you are asking students to create books using Scalar, students should be made aware of this and given the option to make their work anonymous or to sign up without using personally identifying information. For more information on UBC privacy facts, read the [Privacy Fact Sheet on Collecting Personal Information.](https://universitycounsel.ubc.ca/files/2020/01/Fact-Sheet-Collecting-Personal-Information.pdf)  
+Please be aware that Scalar stores its data in the United States. If you are asking students to create books using Scalar, students should be made aware of this and given the option to make their work anonymous or to sign up without using personally identifying information. For more information on UBC privacy facts, read the [Privacy Fact Sheet on Collecting Personal Information.] (https://universitycounsel.ubc.ca/collecting-personal-information).  
 
 Remember, students at UBC own their intellectual property so they have the right to refuse openly licensing their work. It’s necessary to communicate the risks and value of working in the open and/or public with your students. Librarians can help you with that!
 
-When you create a book in Scalar, it is automatically set to private. You can make your Scalar book public by selecting the **Sharing** tab in the Dashboard. Under **Availability**, and next to **Make URL public?** select the option from the drop down menu.
+When you create a book in Scalar, it is automatically set to private. You can make your Scalar book public by selecting the **Properties** tab in the Dashboard and selected the options you'd like under **Permissions**.
 
 ## Accessibility
 
@@ -53,13 +53,13 @@ Scalar projects are composed of three main units: Media, Pages, and Paths.
 
 ## Sharing Your Scalar Project
 
-Scalar automatically makes your project private. If you would like to create an accessible URL  without a login (and thus crawlable by search engines), set **Make URL public?** to Yes. To make your book accessible in Scalar's Index page, set **Display in Scalar indexes?** to Yes.
+Scalar automatically makes your project private. If you would like to create an accessible URL without a login (and thus crawlable by search engines), select **No Login Required** under **Permissions** in the **Properties** tab. To make your book accessible in Scalar's Index page, select **Can be found in Scalar index and by search engines**.
 
-You can also allow others to duplicate your book. Under the **Sharing** tab, set **Duplicability** to Yes.
+You can also allow others to duplicate your book by selecting **Can be duplicated by you and others**.
 
 ## Exporting Your Scalar Project
 
-The content of your book project can be backed up and exported as a RDF-JSON file under the **Sharing** tab.
+The content of your book project can be backed up and exported as a RDF-JSON file under the **Utilities** tab.
 
 # Knight Lab
 
@@ -99,9 +99,9 @@ Many museums, galleries, archives, and libraries have made some or all of their 
 
 Make sure to check the individual license of the image that you want to use and include a citation or attribution for the image in your work.
 
-1. [Art Institute of Chicago](https://www.artic.edu/collection)
+1. [Art Institute of Chicago](https://www.artic.edu/collection-information/open-access/open-access-images)
 2. [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/)
-3. [The Cleveland Museum of Art](https://www.clevelandart.org/art/collections)
+3. [The Cleveland Museum of Art](https://www.clevelandart.org/open-access)
 4. [J. Paul Getty Museum](https://search.getty.edu/gateway/search?q=&cat=highlight&f=%22Open+Content+Images%22&rows=10&srt=a&dir=s&pg=1)
 5. [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search#!?searchField=All&showOnly=openAccess&sortBy=relevance&offset=0&pageSize=0)
 6. [The Rijksmuseum](https://www.rijksmuseum.nl/en/rijksstudio)
