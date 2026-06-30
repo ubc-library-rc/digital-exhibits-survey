@@ -16,7 +16,7 @@ A short selection of resources that we have mentioned in the course of the works
 * [UBC Research Commons home page](https://researchcommons.library.ubc.ca/)
 
 ### Center for Scholarly Communication (at UBC-O)
-* Website [https://library.ok.ubc.ca/research/csc/](library.ok.ubc.ca/research/csc/)
+* Website <a href="https://library.ok.ubc.ca/research/csc/">https://library.ok.ubc.ca/research/csc/</a>
 * [Upcoming events](https://csc.ok.ubc.ca/workshops/)
 
 ### Advanced Research Computing (ARC)
@@ -40,23 +40,23 @@ A short selection of resources that we have mentioned in the course of the works
 * [UBC IT shared web hosting](https://it.ubc.ca/services/web-servers-storage/shared-web-hosting)
 * [Educloud](https://it.ubc.ca/services/web-servers-storage/educloud-server-service)
 * External to UBC, [Reclaim Hosting](https://reclaimhosting.com/) is a good academic-focused option and has Canadian servers in Toronto via Digital Ocean.
-* For some projects [Compute Canada](https://www.computecanada.ca/research-portal/national-services/compute-canada-cloud/) can be a great option; connect with [UBC ARC](https://arc.ubc.ca/about-arc/about-arc/contact-us) to learn more. 
+* For some projects the [Digital Research Alliance of Canada ](https://www.alliancecan.ca/en)) can be a great option; connect with [UBC ARC](https://arc.ubc.ca/about-arc/about-arc/contact-us) to learn more. 
 
 ## Sourcing content
 Below is a list of Open GLAMs (Galleries, Libraries, Archives, Museums) that you can source images for your project from.
 * [The Metropolitan Museum of Art, New York](https://www.metmuseum.org/art/collection)
-* [Art Institute of Chicago](https://www.artic.edu/collection) 
+* [Art Institute of Chicago](https://www.artic.edu/open-access)  
 * [J. Paul Getty Museum, Los Angeles](https://www.getty.edu/about/whatwedo/opencontent.html)
 * [National Gallery of Art, Washington DC](https://www.nga.gov/collection/collection-search.html)
 * [Library of Congress](http://www.loc.gov/pictures/) 
 * [New York Public Library](https://www.nypl.org/research/collections/digital-collections/public-domain)
 * [Smithsonian Institution, Washington DC](https://www.si.edu/openaccess)
-* [Cleveland Museum of Art](https://www.clevelandart.org/art/collections) 
+* [Cleveland Museum of Art](https://www.clevelandart.org/open-access)
 * [Los Angeles County Museum of Art](https://collections.lacma.org/)(‘show public domain images only’) 
 * [Harvard Art Museums](https://harvardartmuseums.org/collections)
 * [Yale University (Art Gallery & Center for British Art)](https://artgallery.yale.edu/using-images)
 * [Paris Musées](https://www.parismuseescollections.paris.fr/fr)
-* [The Belvedere, Vienna](https://www.belvedere.at/en/open-content) 
+* [The Belvedere, Vienna](https://sammlung.belvedere.at/opencontent/images)
 * [Pinakothek, Munich](https://www.sammlung.pinakothek.de/en/)
 * [Wellcome Collection, London](https://wellcomecollection.org/works)
 * [Rijksmuseum, Amsterdam](https://www.rijksmuseum.nl/en/research/image-requests)
