@@ -21,7 +21,7 @@ An **exhibit** is the process of carefully choosing items and arranging them to 
 
 ## Privacy
 
-Please note that Omeka stores its [data](https://info.omeka.net/signup/privacy-policy/) in Virginia, United States. If you are asking students to create exhibits using Omeka, students should be made aware of this and given the option to make their work anonymous or to sign up without using personally identifying information. For more information on UBC privacy facts, read the [Privacy Fact Sheet on Collecting Personal Information](https://universitycounsel.ubc.ca/files/2020/01/Fact-Sheet-Collecting-Personal-Information.pdf).
+Please note that Omeka stores its [data](https://info.omeka.net/signup/privacy-policy/) in Virginia, United States. If you are asking students to create exhibits using Omeka, students should be made aware of this and given the option to make their work anonymous or to sign up without using personally identifying information. For more information on UBC privacy facts, read the [Privacy Fact Sheet on Collecting Personal Information] (https://universitycounsel.ubc.ca/collecting-personal-information).
 
 Remember, students at UBC own their intellectual property so they have the right to refuse openly licensing their work. It’s necessary to communicate the risks and value of working in the open and/or public with your students. Librarians can help you with that!
 
