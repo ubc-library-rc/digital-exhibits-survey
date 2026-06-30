@@ -5,7 +5,7 @@ nav_order: 4
 ---
 # Digital Exhibits
 
-For researchers, digital exhibits can provide an opportunity to communicate research to a broader audience. Digital exhibits can be used to highlight research on many different topics. [The Seahorse Project](https://seahorseproject.omeka.net/), [California Women for Agriculture](https://cawomenforag.omeka.ne), [The Latina History Project](https://latinahistoryproject.omeka.net/), are all examples of websites built using Omeka.net.
+For researchers, digital exhibits can provide an opportunity to communicate research to a broader audience. Digital exhibits can be used to highlight research on many different topics. [The Seahorse Project](https://seahorseproject.omeka.net/), and the [Stonewall: Riot, Rebellion, Activism and Identity](https://stonewallhistory.omeka.net/), are examples of websites built using Omeka.net.
 
 ## Digital Exhibits and Pedagogy
 
