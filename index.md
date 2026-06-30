@@ -18,10 +18,10 @@ At the end of this session, you will be able to:
 
 ## Schedule
 
-| 11:00 - 11:05 | Welcome and introduction|
-| 11:05 - 1:00| Survey of tools |  
-| 1:00 - 2:00 | Break for lunch|
-| 2:00 - 3:00 | Hands-on activities (optional) |   
+| 0:00 - 0:05 | Welcome and introduction|
+| 0:05 - 2:00| Survey of tools |  
+| 2:00 - 3:00 | Break for lunch|
+| 3:00 - 4:00 | Hands-on activities (optional) |   
 
 ## Resources
 * [Slides for today's session](https://docs.google.com/presentation/d/1gxltBBWwqZbB-pbxQm6uMWlF1UWsp2hwfjwWWEhDJ5Y/edit?usp=sharing)
